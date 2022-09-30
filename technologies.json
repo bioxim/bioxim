@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Javascript",
+        "description": "Programming language with more than a million libraries.",
+        "library": false,
+        "image":""
+    },
+    {
+        "name": "React",
+        "description": "Most popular javascript framework.",
+        "lib/Frame": true,
+        "image":""
+    },
+    {
+        "name": "Cassowary",
+        "description": "Cassowary is an algorithm that computes flexible, responsive layouts quickly without resorting to piles of imperative code.  Today is no longer used, because of newer technologies such as Grid/flexbox, Bootstrap, etc.",
+        "lib/Frame": true,
+        "image":""
+    },
+    {
+        "name": "Constraint Handling Rules (CHR)",
+        "description": "Constraint Handling Rules (CHR) is a declarative, rule-based programming language, introduced in 1991 by Thom Frühwirth at the time with European Computer-Industry Research Centre (ECRC) in Munich, Germany. Originally intended for constraint programming, CHR finds applications in grammar induction, type systems, abductive reasoning, multi-agent systems, natural language processing, compilation, scheduling, spatial-temporal reasoning, testing, and verification. A CHR program, sometimes called a constraint handler, is a set of rules that maintain a constraint store, a multi-set of logical formulas. Execution of rules may add or remove formulas from the store, thus changing the state of the program. The order in which rules fire on a given constraint store is non-deterministic, according to its abstract semantics and deterministic (top-down rule application), according to its refined semantics.",
+        "lib/Frame": true,
+        "image":""
+    },
+    {
+        "name": "Google Polymer",
+        "description": "Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub. Modern design principles are implemented as a separate project using Google's Material Design design principles.  They strongly recommed the use of lit instead.",
+        "lib/Frame": true,
+        "image":""
+    },
+    {
+        "name": "Lit",
+        "description": "Lit is a simple library for building fast, lightweight web components.  At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.",
+        "lib/Frame": true,
+        "image":""
+    }
+]

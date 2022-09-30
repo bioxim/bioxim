@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Project Euler solved problems",
+        "main_technology": "Python",
+        "description": "The Project Euler's webpage contain almost 600 logical problems to be solved. Availability: websites portfolio and blog section",
+        "updated": "Sep 30, 2022"
+    },
+    {
+        "name": "Markdown Howto do it",
+        "main_technology": "Markdown",
+        "description": "Everything I know about markdown and what I can do with it",
+        "updated": "Sep 30, 2022"
+    },
+    {
+        "name": "Json howto do it",
+        "main_technology": "JSON",
+        "description": "Everything I know about markdown and what I can do with it",
+        "updated": "Sep 30, 2022"
+    }
+]
