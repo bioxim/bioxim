@@ -1,7 +1,7 @@
 # **Welcome** :exclamation: :wave:
 ### _My name is Xime :feet:, as an IT agronomist i'm interested in technology, coding and data science regarding (not only) crops and animal breeding but all related to this passionate world._
 
-### Visiting :earth_americas: [**_my website resume_**](http://ximenacamino.site) you can read about some projects I've done lately, as roadmap model of my learning. 
+### Visiting :earth_americas: [**_my website resume_**](https://ximenacamino.site) you can read about some projects I've done lately, as roadmap model of my learning. 
 ---
 ## **_Projects_**
 
@@ -20,11 +20,14 @@ Despite the fact that in a second stage of this project I modified the code and 
 
 :small_orange_diamond: **[Resume w/React & Strapi](https://github.com/bioxim/resume_portfolio)**
 
-:earth_americas: **[Final Resume Website](http://ximenacamino.site)**
+:earth_americas: **[Final Resume Website](https://ximenacamino.site)**
 
 ---
 
 ### **_Project Euler's solved problems_**
+In _[Project Euler's site](https://projecteuler.net/)_ we found many logical problems to be solved through computer algorithms where you can filter them by difficulty, solved by or id.  There are almost 800 and every single one involves free time to concentrate enough.  I am using Pyhton in order to practise for future data science personal researchs such as Panda or Numpy.
+
+:small_orange_diamond: **[Solved problems repository](https://github.com/bioxim/eulers)**
 
 ---
 ### **_Early Projects_**
