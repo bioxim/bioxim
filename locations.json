@@ -1,0 +1,27 @@
+[
+    {
+        "Country": "Argentina",
+        "Province": "Buenos Aires",
+        "Localidad": "CABA",
+        "Empresas": [
+            "Mercado Libre",
+            "Globant",
+            "Arc()",
+            "Mcdonald's - Arcos dorados",
+            "Bumeran",
+            "Cencosud",
+            "Falabella",
+            "Zapier",
+            "Github",
+            "Toggl",
+            "Strape",
+            "InVision",
+            "Komoot",
+            "Domestika",
+            "BeBanjo",
+            "Waitry",
+            "Clarity AI",
+            "Turing"
+        ]
+    }
+]

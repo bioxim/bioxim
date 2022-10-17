@@ -8,6 +8,7 @@
 | Name | Link | Brief |
 |---|---|---|
 | Early Projects | [**_Early Projects_**](#early-projects) | My first steps into IT
+| Lorem Ipsum | [**_Lorem Ipsum Generator_**](#lorem-ipsum-generator) | A simple lorem ipsum paragraphs generator
 | Project Euler | [**_Project Euler's solved problems_**](#project-eulers-solved-problems) | The solution of several logical problems proposed in projecteuler.net
 | Web Resume | [**_My Online Resume_**](#my-online-resume) | The 3 versions of my resume, using different technologies
 
@@ -21,6 +22,13 @@ Despite the fact that in a second stage of this project I modified the code and 
 :small_orange_diamond: **[Resume w/React & Strapi](https://github.com/bioxim/resume_portfolio)**
 
 :earth_americas: **[Final Resume Website](https://ximenacamino.site)**
+
+---
+
+### **_Lorem Ipsum Generator_**
+This is a simple lorem ipsum paragraphs generator with some functionalities made in react.
+
+:small_orange_diamond: **[Lorem Ipsum generator repository](https://github.com/bioxim/lorem-ipsum-generator)**
 
 ---
 
