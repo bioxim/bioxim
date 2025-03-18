@@ -1,7 +1,5 @@
 # **Welcome** :exclamation: :wave:
-### _My name is Xime :feet:, as an IT agronomist i'm interested in technology, coding and data science regarding (not only) crops and animal breeding but all related to this passionate world._
-
-### Visiting :earth_americas: [**_my website resume_**](https://ximenacamino.site) you can read about some projects I've done lately, as roadmap model of my learning. 
+### _My name is Xime :feet:, i'm interested in technology, coding and crypto.  Let's assume that it's a real world with real projects, then checkout my history programming promps._
 ---
 ## **_Projects_**
 
