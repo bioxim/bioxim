@@ -1,5 +1,5 @@
-# **Welcome** :exclamation: :wave:
-### _My name is Xime :feet:, i'm interested in technology, coding and crypto.  Let's assume that it's a real world with real projects, then checkout my history programming promps._
+# **Oh Pls God! Don't read this! Kkk**
+### _My name is Xime :feet:, i'm interested in technology, coding and crypto.  Let's assume that it's a real world with real projects, then checkout my history programming prompts._
 ---
 ## **_Projects_**
 
