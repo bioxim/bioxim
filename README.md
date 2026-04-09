@@ -5,7 +5,7 @@
 I build unconventional tools and write code for the decentralized web. Currently obsessed with algorithmic DeFi, sustainable tokenomics, and removing human emotion from crypto investing.
 
 ### 🛠️ What I'm Building
-* **[The Metronome](link-al-repo):** A target-based, price-rhythm DCA protocol. Currently competing in the Solana Colosseum Hackathon.
+* **[The Metronome](https://github.com/bioxim/the-metronome-core):** A target-based, price-rhythm DCA protocol. Currently competing in the Solana Colosseum Hackathon.
 * **[Strangers on a Chain](https://youtube.com/@strangersonachain):** My YouTube channel where I document my development journey, deep-dive into on-chain research, and share Web3 architecture insights. 
 
 ### 💻 The Stack
